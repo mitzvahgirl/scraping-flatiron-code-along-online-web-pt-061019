@@ -1,7 +1,6 @@
 require 'nokogiri'
 require 'open-uri'
 
-
 class Course
  
   attr_accessor :title, :schedule, :description
